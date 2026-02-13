@@ -1,4 +1,4 @@
-# Blog Assets Generator
+# Favicon Generator
 
 <div align="center">
   <img src="./public/playground.png">

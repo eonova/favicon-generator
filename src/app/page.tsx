@@ -25,7 +25,7 @@ export default function Page() {
             </div>
           </div>
           <a
-            href="https://github.com"
+            href="https://github.com/eonova/favicon-generator"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-lg border border-border px-3 py-1.5 text-xs font-medium text-muted-foreground transition-colors hover:bg-card hover:text-foreground"
